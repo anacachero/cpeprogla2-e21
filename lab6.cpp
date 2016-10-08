@@ -4,7 +4,7 @@
 using namespace std;
 
 int main(){
-    ifstream f("sample.txt");
+    ifstream f("input.txt");
     
     int x, y;
     
